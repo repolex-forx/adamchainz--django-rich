@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-rich/commit/1009f109322770ea3234b77f6ee902d271ad02bd",
       "git:hexsha": "1009f109322770ea3234b77f6ee902d271ad02bd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T13:18:35.321216+00:00"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-rich/commit/d903a056839b5cf8a462f0b983d13f45a6c94f75",
