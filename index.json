@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "django-rich",
+  "versions": [
+    {
+      "commit": "1009f109322770ea3234b77f6ee902d271ad02bd",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:18:35.321749+00:00"
+    }
+  ]
+}
